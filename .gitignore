@@ -1,0 +1,11 @@
+﻿myenv/
+venv/
+.env
+Dataset/
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+.DS_Store
+Thumbs.db
